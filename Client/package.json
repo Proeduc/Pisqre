@@ -2,7 +2,7 @@
   "name": "profese",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://64.227.181.50:5000",
+ 
  
   "dependencies": {
     "@material-ui/core": "^4.12.3",
