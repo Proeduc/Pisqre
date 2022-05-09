@@ -1,0 +1,32 @@
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0;
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: white;
+  padding: 5px;
+}
+
+ul > li:before {
+  content: none !important;
+}
+.bn{
+ 
+  
+  color: white;
+}
+.bn:hover{
+  color: #153280;
+
+}
+.bn1{
+ 
+  margin-left: 1rem;
+  color: white;
+}
+.bn1:hover{
+  color: #153280;
+
+}
